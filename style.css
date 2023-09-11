@@ -4,4 +4,16 @@ body{
    font-family: 'Playfair Display', serif;
    font-family: 'Roboto Mono', monospace;
    font-family: 'Roboto Slab', serif;
+   background-image: url(img/pexels-johannes-plenio-1776270.jpg);
+   background-position: center;
+   background-size: cover;
+   min-height: 100vh;
+}
+
+.input-box{
+   backdrop-filter: blur(20px);
+}
+
+main{
+   border-radius: 30px;
 }
